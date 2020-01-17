@@ -1,2 +1,2 @@
 # edem-clase-git
-Repositorio para la clase de Git
+Repositorio para la clase Python
